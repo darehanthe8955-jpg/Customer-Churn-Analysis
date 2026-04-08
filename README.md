@@ -47,13 +47,13 @@ This project analyzes customer churn data to identify key factors that lead to c
 ## 📊 Visualizations
 
 ### 📊 Churn Distribution
-![Churn](images/Churn_distribution.png)
+![Churn](images/churn_distribution.png)
 
 ### 📊 Contract Type vs Churn
 ![Contract](images/contract_churn.png)
 
 ### 📊 Monthly Charges vs Churn
-![Charges](images/monthly_charges.png)
+![Charges](images/monthly_charges_churn.png)
 
 ### 📊 Tenure vs Churn
 ![Tenure](images/tenure_churn.png)
