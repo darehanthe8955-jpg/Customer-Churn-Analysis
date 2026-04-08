@@ -61,9 +61,9 @@ This project analyzes customer churn data to identify key factors that lead to c
 ### 📊 Payment Method vs Churn
 ![Payment](images/payment_method_churn.png)
 
-### 🤖 Model Prediction (Optional)
+### 🤖 Model Prediction 
 ![Prediction](images/actual_vs_predicted.png)
-
+ 
 ---
 
 ## 💡 Key Insights
